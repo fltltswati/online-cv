@@ -27,7 +27,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -61,7 +61,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Post Graduate Diploma 
+      - degree: Post Graduate Diploma (85.72%)
         university: VTU, Belagavi (India)
         time: 2017-2018
         details: |
@@ -78,15 +78,16 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Flight Lieutenant (S IT Officer)
+      - role: Flight Lieutenant (Senior IT Officer)
         time: Jan, 2017 - May, 2022
         company: Indian Air Force, All across India
         details: |
             - Lead varied Network & IT Professionals and assure 24X7 AF-Net connectivity of a complete AF base.
-            - Synchronous data logging, upload and monitoring. Analytics and reporting for in-house modification and cost/process optimisation.
-            - Forecast planning, improved inventory and supply chain management.
-            - Analysed live site data, proposed and developed solution to reduce failure rate of HFRA (High Failure Rate Aggregates) in Aviation resulting in $48k of annual cost saving to the exchequer and reducing 24k hours of manual labour annually.
-            
+            - Performed synchronous data logging, upload and monitoring. Data analytics to propose in-house modifications and cost/process optimisations along with forecast planning, improved inventory and supply chain management.
+            - Analysed live site data, proposed and developed solutions to reduce failure rate of HFRA (High Failure Rate Aggregates) in Aviation resulting in $48k of annual cost saving to the exchequer and reducing 24k hours of manual labour annually.
+            - Delivered quality solutions through gathering and provisioning data performance issues’ investigation, root cause analysis, and problem resolution initiatives.
+            - Accomplished in multiple leadership roles and worked as a key liaison between Senior Officers, Air Warriors and External Vendors- HAL/BEL/TASL.
+
       - role: Assistant Manager
         time: 2014 - 2016
         company: Indian Overseas Bank, Kanpur (India)
@@ -100,11 +101,6 @@ experiences:
         time: Jan, 2014 - May, 2014
         company: IBM, Bangalore (India)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - System monitoring, component upgrades and configuration management.
             - Troubleshooting end-user errors.
 projects:
@@ -134,49 +130,27 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python & Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn )
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PostGreSQL
+        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Analytical Techniques (Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net), Machine Learning - Decision Tree, Bootstrap Forest, Boosted Tree, Neural network, Deep Learning, KNN, Naive Bayes, Discriminant Analysis, Data Mining, Time-Series Forecasting, Hyper-parameter tuning, Model selection, PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics, Data Structures, Algorithms)
+        level: 98%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Aircraft Communication & Navigation Systems
+        level: 98%
+
+     # - name: Ruby on Rails
+     #   level: 85%
+
+     #- name: Sketch & Photoshop
+     # level: 60%
+
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
