@@ -16,117 +16,97 @@ sidebar:
     phone: 401 660 3907
     timezone: US/Eastern Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: fltltswati.github.io #do not add http://
     linkedin: swati05
-    xing: alandoe
+    #xing: alandoe
     github: fltltswati
-    telegram: # add your nickname without '@' sign
+    #telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    twitter: '@Explorer_Swati'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        #- idiom: Spanish
+        #  level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Sketching
           link:
 
         - item: Cooking
           link:
 
+        #- item: Cooking
+        #  link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      8+ years of experience across diverse fields - Military, Retail Banking & IT. Held key portfolios in Indian Air Force as a Class-I Gazetted Officer and provided key insights w.r.t HFRA (High Failure Rate Aggregates) monitoring and analysis in AFLS (Air Field Lighting System) which led to an annual cost saving to the exchequer in national interest. Delivered 100% serviceability of critical Navigational Aids for three consecutive years. As an Assistant Manager in Indian Overseas Bank, drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015.
+      #Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Post Graduate Diploma 
+        university: VTU, Belagavi (India)
+        time: 2017-2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Aeronautical Engineering (Electronics).
+            - Topped the Course with 85.72%
+            #- Awarded 'Best in Project' for 
+      - degree: B.Tech (9.65/10)
+        university: UIET, CSJMU, Kanpur (India)
+        time: 2009 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Electronics & Communiation Engineering.
+            #- Bullet point
+            #- Bullet point
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Flight Lieutenant (S IT Officer)
+        time: Jan, 2017 - May, 2022
+        company: Indian Air Force, All across India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Lead varied Network & IT Professionals and assure 24X7 AF-Net connectivity of a complete AF base.
+            - Synchronous data logging, upload and monitoring. Analytics and reporting for in-house modification and cost/process optimisation.
+            - Forecast planning, improved inventory and supply chain management.
+            - Analysed live site data, proposed and developed solution to reduce failure rate of HFRA (High Failure Rate Aggregates) in Aviation resulting in $48k of annual cost saving to the exchequer and reducing 24k hours of manual labour annually.
+            
+      - role: Assistant Manager
+        time: 2014 - 2016
+        company: Indian Overseas Bank, Kanpur (India)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Drive the Credit and Risk management and supervise high value Foreign Exchange transactions.
+            - Augment the bank’s business by managing cash flow, loans, mortgages, and finance.
+            - As a Public Relations Officer, handle customer complaints and address issues such as discrepancies in accounts, charge rectification etc. Managerial tasks included Supervision of clerical work, informed decision making, cash balance management etc.
+            - JAIIB (Junior Associate-Indian Institute for Banking & Finance) Certified Banking Professional.
+            
+      - role: Associate System Engineer (SAP BASIS)
+        time: Jan, 2014 - May, 2014
+        company: IBM, Bangalore (India)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - System monitoring, component upgrades and configuration management.
+            - Troubleshooting end-user errors.
 projects:
     title: Projects
     intro: >
