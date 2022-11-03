@@ -56,11 +56,8 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      - 8+ years of experience across diverse fields - Military, Retail Banking & IT. 
-      - Held key portfolios in Indian Air Force as a Class-I Gazetted Officer and provided key insights through data analytics which led to an annual cost saving of $40k to the exchequer in national interest in 2021. 
-      - Consistently delivered 100% serviceability of critical Navigational Aids for three consecutive years with meticulous attention to detail, critical thinking and excellent analytical skills.
-      - As an Assistant Manager in Indian Overseas Bank, drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order.
-      #Second paragraph if required.
+      8+ years of experience across diverse fields - Military, Retail Banking & IT. As a Class-I Gazetted Officer in Indian Air Force, provided key insights through data analytics which led to an annual cost saving of $40k to the exchequer in national interest in 2021. Consistently delivered 100% serviceability of critical Navigational Aids for three consecutive years (2019-21) using meticulous attention to detail, critical thinking and proactive problem solving skills.
+      
 education:
     title: Education
     info:
@@ -98,6 +95,7 @@ experiences:
             - Drive the Credit and Risk management and supervise high value Foreign Exchange transactions.
             - Augment the bank’s business by managing cash flow, loans, mortgages, and finance.
             - As a Public Relations Officer, handle customer complaints and address issues such as discrepancies in accounts, charge rectification etc. Managerial tasks included Supervision of clerical work, informed decision making, cash balance management etc.
+            - Drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order.
             - JAIIB (Junior Associate-Indian Institute for Banking & Finance) Certified Banking Professional.
             
       - role: Associate System Engineer (SAP BASIS)
