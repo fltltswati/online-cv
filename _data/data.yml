@@ -105,38 +105,22 @@ experiences:
 projects:
     title: ACHIEVEMENTS
     intro: >
-     assignments:
-      - title: 
-        link: "#"
-        tagline: "Awarded for ‘Commitment to Service and Dedication to Duty’ (2021) by CAS- Chief of Air Staff (Indian Air Force)"
+    tagline: "Awarded for ‘Commitment to Service and Dedication to Duty’ (2021) by CAS- Chief of Air Staff (Indian Air Force)"
 
       - title: 
         link: "#"
         tagline: "Drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order."
 
-experiences:
+
+skills:
     title: Technical Skills
-    info:
-      - role: 
-        time: 
-        company: 
-        details: |
+
+ details: |
             - Languages- C, Python including Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn.
             - Database Systems- PostGreSQL, PL/SQL
             - Data Analytics/ Data Mining & Visualization incl PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics.
             - Machine Learning - Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net) , Decision Trees, Bootstrap Forests, Boosted Trees, Time-Series Forecasting, Hyper-parameter tuning and Model selection.
             - Deep Learning- ANN, CNN, Naive Bayes, Discriminant Analysis.
-           
-
-skills:
-    title: Technical Skills
-
-    toolset:
-      - name: Languages- C, Python including Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn )
-      - name: Database Systems- PostGreSQL, PL/SQL
-      - name: Data Analytics/ Data Mining & Visualization incl PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics
-      - name: Machine Learning - Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net) , Decision Trees, Bootstrap Forests, Boosted Trees, Time-Series Forecasting, Hyper-parameter tuning and Model selection
-      - name: Deep Learning- ANN, CNN, Naive Bayes, Discriminant Analysis
      
 
      #- name: Sketch & Photoshop
