@@ -77,7 +77,7 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Senior IT Officer
+      - role: IT Officer
         time: Jan, 2017 - May, 2022
         company: Indian Air Force, All across India
         details: |
@@ -104,7 +104,7 @@ experiences:
             - Troubleshooting end-user errors.
 projects:
     title: ACHIEVEMENTS
-    intro: >
+    intro: 
     tagline: "Awarded for ‘Commitment to Service and Dedication to Duty’ (2021) by CAS- Chief of Air Staff (Indian Air Force)"
 
       - title: 
@@ -114,7 +114,6 @@ projects:
 
 skills:
     title: Technical Skills
-
  details: |
             - Languages- C, Python including Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn.
             - Database Systems- PostGreSQL, PL/SQL
