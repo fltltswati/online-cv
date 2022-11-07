@@ -103,31 +103,18 @@ experiences:
             - System monitoring, component upgrades and configuration management.
             - Troubleshooting end-user errors.
 projects:
-    title: Projects
+    title: ACHIEVEMENTS
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+     assignments:
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Awarded for ‘Commitment to Service and Dedication to Duty’ (2021) by CAS- Chief of Air Staff (Indian Air Force)"
 
-      - title: Tempo
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Technical Skills
