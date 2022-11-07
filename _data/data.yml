@@ -114,7 +114,19 @@ projects:
         link: "#"
         tagline: "Drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order."
 
-
+experiences:
+    title: Technical Skills
+    info:
+      - role: 
+        time: 
+        company: 
+        details: |
+            - Languages- C, Python including Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn.
+            - Database Systems- PostGreSQL, PL/SQL
+            - Data Analytics/ Data Mining & Visualization incl PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics.
+            - Machine Learning - Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net) , Decision Trees, Bootstrap Forests, Boosted Trees, Time-Series Forecasting, Hyper-parameter tuning and Model selection.
+            - Deep Learning- ANN, CNN, Naive Bayes, Discriminant Analysis.
+           
 
 skills:
     title: Technical Skills
