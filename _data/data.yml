@@ -63,17 +63,17 @@ education:
     info:
       - degree: Post Graduate Diploma - Aeronautical Engineering (85.72%)
         university: VTU, Belagavi (India)
-        time: July 2018
+        time: 2018
         details: |
             - Best in ‘Academics’ and ‘Project’ (Quadcopter - Arduino/ VB6)
             - Stood third in Cross-country Marathon (2017), won inter-services Volleyball competition.
-          - degree: B.Tech (9.65/10)
+      - degree: B.Tech (9.65/10)
         university: UIET, CSJMU, Kanpur (India)
-        time: 2009 - 2013
+        time: 2013
         details: |
           Electronics & Communiation Engineering.
-            #- Bullet point
-            #- Bullet point
+            - University Gold medalist
+            - Conducted and hosted HITZ- Technical Fest & winner of Sur-Sadhana 2012 (Group Singing Competition)
 experiences:
     title: Work Experience
     info:
@@ -130,23 +130,15 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
     toolset:
-      - name: Python & Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn )
-        level: 95%
-
-      - name: PostGreSQL
-        level: 98%
-
-      - name: Analytical Techniques (Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net), Machine Learning - Decision Tree, Bootstrap Forest, Boosted Tree, Neural network, Deep Learning, KNN, Naive Bayes, Discriminant Analysis, Data Mining, Time-Series Forecasting, Hyper-parameter tuning, Model selection, PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics, Data Structures, Algorithms)
-        level: 98%
-
-      - name: Aircraft Communication & Navigation Systems
-        level: 98%
-
-     # - name: Ruby on Rails
-     #   level: 85%
+      - name: Languages- C, Python including Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn )
+      - name: Database Systems- PostGreSQL, PL/SQL
+      - name: Data Analytics/ Data Mining & Visualization incl PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics
+      - name: Machine Learning - Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net) , Decision Trees, Bootstrap Forests, Boosted Trees, Time-Series Forecasting, Hyper-parameter tuning and Model selection
+      - name: Deep Learning- ANN, CNN, Naive Bayes, Discriminant Analysis
+     
 
      #- name: Sketch & Photoshop
      # level: 60%
