@@ -56,19 +56,18 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      8+ years of experience across diverse fields - Military, Retail Banking & IT. As a Class-I Gazetted Officer in Indian Air Force, provided key insights through data analytics which led to an annual cost saving of $40k to the exchequer in national interest in 2021. Consistently delivered 100% serviceability of critical Navigational Aids for three consecutive years (2019-21) using meticulous attention to detail, critical thinking and proactive problem solving skills.
+      8+ years of experience across diverse fields - Military, Retail Banking & IT , with broad experience in working on data-intensive applications,overcoming complex architecture, and scalability issues in diverse industries.As an IT Officer in the Indian Air Force, provided key insights through data driven analysis which led to an annual cost saving of $48k to the exchequer in national interest in 2021. Over 3 years of experience in managing teams of 35+ people and working with elite government executives.
       
 education:
     title: Education
     info:
-      - degree: Post Graduate Diploma (85.72%)
+      - degree: Post Graduate Diploma - Aeronautical Engineering (85.72%)
         university: VTU, Belagavi (India)
-        time: 2017-2018
+        time: July 2018
         details: |
-          Aeronautical Engineering (Electronics).
-            - Topped the Course with 85.72%
-            #- Awarded 'Best in Project' for 
-      - degree: B.Tech (9.65/10)
+            - Best in ‘Academics’ and ‘Project’ (Quadcopter - Arduino/ VB6)
+            - Stood third in Cross-country Marathon (2017), won inter-services Volleyball competition.
+          - degree: B.Tech (9.65/10)
         university: UIET, CSJMU, Kanpur (India)
         time: 2009 - 2013
         details: |
@@ -78,15 +77,16 @@ education:
 experiences:
     title: Work Experience
     info:
-      - role: Flight Lieutenant (Senior IT Officer)
+      - role: Senior IT Officer
         time: Jan, 2017 - May, 2022
         company: Indian Air Force, All across India
         details: |
-            - Lead varied Network & IT Professionals and assure 24X7 AF-Net connectivity of a complete AF base.
-            - Performed synchronous data logging, upload and monitoring. Data analytics to propose in-house modifications and cost/process optimisations along with forecast planning, improved inventory and supply chain management.
-            - Analysed live site data, proposed and developed solutions to reduce failure rate of HFRA (High Failure Rate Aggregates) in Aviation resulting in $48k of annual cost saving to the exchequer and reducing 24k hours of manual labour annually.
+            - To oversee core strategies, technology roadmaps, operations and  fault isolation/ rectification.Used data analytics for in-house modifications and cost/process optimisations.Performed synchronous data logging, upload and monitoring along with forecast planning, improved inventory and supply chain management.
+            - Analyzed live site data, proposed and developed solutions to reduce failure rate of HFRA (High Failure Rate Aggregates) in Aviation(AFLS) resulting in $48k of annual cost saving to the exchequer and reducing 24k hours of manual labor annually.
             - Delivered quality solutions through gathering and provisioning data performance issues’ investigation, root cause analysis, and problem resolution initiatives.
-            - Accomplished in multiple leadership roles and worked as a key liaison between Senior Officers, Air Warriors and External Vendors- HAL/BEL/TASL.
+            - Accomplished in multiple leadership roles and worked as a key liaison between Senior Officers, Air Warriors and External Vendors.
+            - Consistently delivered 100% serviceability of critical Navigational Aids for three consecutive years (2019-21) using meticulous attention to detail, critical thinking and proactive problem solving skills.
+            - Lead varied Network & IT Professionals and assure 24X7 AF-Net connectivity of a complete AF base.
 
       - role: Assistant Manager
         time: 2014 - 2016
@@ -95,8 +95,6 @@ experiences:
             - Drive the Credit and Risk management and supervise high value Foreign Exchange transactions.
             - Augment the bank’s business by managing cash flow, loans, mortgages, and finance.
             - As a Public Relations Officer, handle customer complaints and address issues such as discrepancies in accounts, charge rectification etc. Managerial tasks included Supervision of clerical work, informed decision making, cash balance management etc.
-            - Drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order.
-            - JAIIB (Junior Associate-Indian Institute for Banking & Finance) Certified Banking Professional.
             
       - role: Associate System Engineer (SAP BASIS)
         time: Jan, 2014 - May, 2014
