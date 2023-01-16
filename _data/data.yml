@@ -57,7 +57,6 @@ career-profile:
     title: Professional Summary
     summary: |
       8+ years of experience across diverse fields - Military, Retail Banking & IT , with broad experience in working on data-intensive applications,overcoming complex architecture, and scalability issues in diverse industries.As an IT Officer in the Indian Air Force, provided key insights through data driven analysis which led to an annual cost saving of $48k to the exchequer in national interest in 2021. Over 3 years of experience in managing teams of 35+ people and working with elite government executives.
-      
 education:
     title: Education
     info:
@@ -65,17 +64,22 @@ education:
         university: VTU, Belagavi (India)
         time: 2018
         details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
             - Best in ‘Academics’ and ‘Project’ (Quadcopter - Arduino/ VB6)
             - Stood third in Cross-country Marathon (2017), won inter-services Volleyball competition.
       - degree: B.Tech (9.65/10)
         university: UIET, CSJMU, Kanpur (India)
         time: 2013
         details: |
-          Electronics & Communiation Engineering.
+          Electronics & Communiation Engineering
             - University Gold medalist
             - Conducted and hosted HITZ- Technical Fest & winner of Sur-Sadhana 2012 (Group Singing Competition)
 experiences:
-    title: Work Experience
+    title: Experiences
     info:
       - role: IT Officer
         time: Jan, 2017 - May, 2022
@@ -87,7 +91,6 @@ experiences:
             - Accomplished in multiple leadership roles and worked as a key liaison between Senior Officers, Air Warriors and External Vendors.
             - Consistently delivered 100% serviceability of critical Navigational Aids for three consecutive years (2019-21) using meticulous attention to detail, critical thinking and proactive problem solving skills.
             - Lead varied Network & IT Professionals and assure 24X7 AF-Net connectivity of a complete AF base.
-
       - role: Assistant Manager
         time: 2014 - 2016
         company: Indian Overseas Bank, Kanpur (India)
@@ -95,32 +98,100 @@ experiences:
             - Drive the Credit and Risk management and supervise high value Foreign Exchange transactions.
             - Augment the bank’s business by managing cash flow, loans, mortgages, and finance.
             - As a Public Relations Officer, handle customer complaints and address issues such as discrepancies in accounts, charge rectification etc. Managerial tasks included Supervision of clerical work, informed decision making, cash balance management etc.
-            
       - role: Associate System Engineer (SAP BASIS)
         time: Jan, 2014 - May, 2014
         company: IBM, Bangalore (India)
         details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
             - System monitoring, component upgrades and configuration management.
             - Troubleshooting end-user errors.
 projects:
-    title: ACHIEVEMENTS
-    intro: 
-    tagline: "Awarded for ‘Commitment to Service and Dedication to Duty’ (2021) by CAS- Chief of Air Staff (Indian Air Force)"
-    tagline: "Drove migration from age-old CROWN software to Finacle (Core Banking Solution) and achieved ‘Outstanding Contributor’ Award for the year 2015 for procedural thinking and team-work of the highest order."
-    
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Loan Default Prediction
+        link: "#hook"
+        tagline: "Implemented classification algorithms for prediction of credit worthiness of a client to sanction Home Equity Loan and to determine key features driving loan defaults, with a recall score of 95%."
+
+      - title: Potential Customer Prediction
+        link: "#"
+        tagline: "Implemented tree based models to help identify leads that are likely to convert to paid customers after extensive EDA."
+
+      - title: Analyzing different aspects of Diabetes
+        link: "#"
+        tagline: "Analyzed different aspects of Diabetes in the Pima Indians tribe after extensive exploratory data analysis."
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Certificate Courses
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: MIT IDSS
+        link: "#"
+        authors: Applied Data Science
+        conference: Jan, 2023
+
+      - title: "Udacity"
+        link: "#"
+        authors: AWS ML Foundations
+        conference: "Nov 2022"
+
+      - title: IITK
+        link: "#"
+        authors: Intensive Training School on Data Science & Data Analytics
+        conference: "Aug 2022"
+        
+      - title: Udemy
+        link: "#"
+        authors: ML & Data Science (Python) Masterclass and Python Bootcamp (Jose Portilla)
+        conference: "Jul 2022"
 
 skills:
-    title: Technical Skills
- details: |
-            - Languages- C, Python including Libraries( Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn.
-            - Database Systems- PostGreSQL, PL/SQL
-            - Data Analytics/ Data Mining & Visualization incl PCA, Cluster analysis, Data-Preprocessing, Manipulation, Exploration, Hypothesis Testing, Sampling, Probability Distributions, Maths & Statistics.
-            - Machine Learning - Regression (Linear, Logistic, Generalized - Ridge/Lasso/Elastic Net) , Decision Trees, Bootstrap Forests, Boosted Trees, Time-Series Forecasting, Hyper-parameter tuning and Model selection.
-            - Deep Learning- ANN, CNN, Naive Bayes, Discriminant Analysis.
-     
+    title: Skills &amp; Proficiency
 
-     #- name: Sketch & Photoshop
-     # level: 60%
+    toolset:
+      - name: Python & C
+        level: 98%
 
-#footer: >
-    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Data Analytics & Data Mining
+        level: 95%
+
+      - name: Machine Learning
+        level: 90%
+
+      - name: Deep Learning
+        level: 90%
+
+      - name: Database Systems
+        level: 85%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
