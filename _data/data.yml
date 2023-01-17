@@ -115,11 +115,11 @@ projects:
       
     assignments:
       - title: Loan Default Prediction
-        link: "#hook"
+        link: "https://github.com/fltltswati/Loan-Default-Prediction"
         tagline: "Implemented classification algorithms for prediction of credit worthiness of a client to sanction Home Equity Loan and to determine key features driving loan defaults, with a recall score of 95%."
 
       - title: Potential Customer Prediction
-        link: "#"
+        link: "https://github.com/fltltswati/Potential-Customer-Prediction"
         tagline: "Implemented tree based models to help identify leads that are likely to convert to paid customers after extensive EDA."
 
       - title: Analyzing different aspects of Diabetes
