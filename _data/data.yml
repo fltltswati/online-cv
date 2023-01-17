@@ -151,7 +151,7 @@ publications:
       
     papers:
       - title: MIT IDSS
-        link: "#"
+        link: "https://eportfolio.mygreatlearning.com/swati-verma"
         authors: Applied Data Science
         conference: Jan, 2023
 
@@ -166,7 +166,7 @@ publications:
         conference: "Aug 2022"
         
       - title: Udemy
-        link: "#"
+        link: "https://www.udemy.com/certificate/UC-9f35d34f-6e2e-4da8-8608-69703d114614/"
         authors: ML & Data Science (Python) Masterclass and Python Bootcamp (Jose Portilla)
         conference: "Jul 2022"
 
