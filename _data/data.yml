@@ -64,11 +64,6 @@ education:
         university: VTU, Belagavi (India)
         time: 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
             - Best in ‘Academics’ and ‘Project’ (Quadcopter - Arduino/ VB6)
             - Stood third in Cross-country Marathon (2017), won inter-services Volleyball competition.
       - degree: B.Tech (9.65/10)
@@ -102,11 +97,6 @@ experiences:
         time: Jan, 2014 - May, 2014
         company: IBM, Bangalore (India)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - System monitoring, component upgrades and configuration management.
             - Troubleshooting end-user errors.
 projects:
@@ -125,25 +115,6 @@ projects:
       - title: Analyzing different aspects of Diabetes
         link: "#"
         tagline: "Analyzed different aspects of Diabetes in the Pima Indians tribe after extensive exploratory data analysis."
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Certificate Courses
